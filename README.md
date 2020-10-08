@@ -1,6 +1,7 @@
 # oopexcercise
 PHP OOP excersise
 
+(Still in progress) 
 
 Create office where employees generate randomly and take created before rooms 
 
